@@ -46,6 +46,9 @@ library('NbClust')
 
 #install.packages("dbscan")
 library(dbscan) 
+ 
+#install.packages("rio")
+library("rio")
 
 
 #############   Cargamos los datos
