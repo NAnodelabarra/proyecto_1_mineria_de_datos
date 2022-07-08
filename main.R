@@ -18,8 +18,9 @@ $$/       $$/   $$/  $$$$$$/      $$/     $$$$$$$$/  $$$$$$/     $$/    $$$$$$/ 
       $$ |$$$/ $$ | _$$ |_ $$ |$$$$ |$$ |_____ $$ |  $$ | _$$ |_ $$ |  $$ |                                
       $$ | $/  $$ |/ $$   |$$ | $$$ |$$       |$$ |  $$ |/ $$   |$$ |  $$ |                                
       $$/      $$/ $$$$$$/ $$/   $$/ $$$$$$$$/ $$/   $$/ $$$$$$/ $$/   $$/                                 
-      
 
+#Juan De la Barra     
+#Diego Aguilar
 #LAS LINEAS QUE GENERAN ARCHIVOS ESTAN COMENTADAS PARA OPTIMIZAR RENDIMIENTO (ARCHIVOS ADJUNTOS EN GITHUB)      
    
 #############   Instalamos paquetes necesarios
